@@ -11,6 +11,7 @@
     * [activity](travel/2021/tai-dong/activity.md)
     * [sleep](travel/2021/tai-dong/sleep.md)
     * [weather](travel/2021/tai-dong/weather.md)
+    * [伴手禮](travel/2021/tai-dong/buying.md)
   * [綠島](travel/2021/green-island.md)
 
 ## other

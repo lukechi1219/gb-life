@@ -14,6 +14,8 @@
 
 都蘭海角咖啡 Dulan Cape Café: 西班牙料理 , 看風景
 
+{% embed url="https://qqkelly.com/dulan-cape-sailboat/" %}
+
 {% embed url="https://www.travelerluxe.com/article/desc/190002585" %}
 
 {% embed url="https://www.facebook.com/capeparadisedulan/posts/3065111117097570?\_\_cft\_\_\[0\]=AZUbHQNCDcp4hAS1kcoMKgQNMRCExdA4td6mWZt8EamuO9Ulwy2d8s8QATpDxZwWM3jNgkRmzwtBka0Y4DTKDvM4kTBbUycDy3aalN4DYPQqbs\_lGHKTWVkzdCWc4IdXjMgawkfeEOVnku7nVqht10xb&\_\_tn\_\_=%2CO%2CP-R" %}

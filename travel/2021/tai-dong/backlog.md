@@ -13,7 +13,11 @@
 .
 
 Day 1  
+小編偷偷說：伯朗大道無法開車進入，得騎乘自行車唷！一進去就有許多租借腳踏車的店非常方便（怕累的人也有電動的不用擔心～）
+
 .
+
+{% embed url="https://www.funtime.com.tw/blog/funtime/taitung-chishang-guanshan-luye" %}
 
 Day 2  
 不用早起 , 先到小野柳、加路蘭海岸看台東最美景致，  

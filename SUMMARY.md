@@ -9,7 +9,7 @@
     * [backlog](travel/2021/tai-dong/backlog.md)
     * [eat](travel/2021/tai-dong/eat.md)
     * [activity](travel/2021/tai-dong/activity.md)
-    * [sleep](travel/2021/tai-dong/sleep.md)
+    * [hotel](travel/2021/tai-dong/hotel.md)
     * [weather](travel/2021/tai-dong/weather.md)
     * [伴手禮](travel/2021/tai-dong/buying.md)
     * [info](travel/2021/tai-dong/info.md)

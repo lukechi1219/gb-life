@@ -45,5 +45,11 @@ Day 2
 
 .
 
+![](../../../.gitbook/assets/photo_2021-09-26_14-44-42.jpg)
+
+.
+
+![](../../../.gitbook/assets/photo_2021-09-26_14-45-35.jpg)
+
 .
 

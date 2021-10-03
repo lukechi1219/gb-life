@@ -14,25 +14,25 @@
   <tbody>
     <tr>
       <td style="text-align:left">6:00</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">6:15 out</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">7:00</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">7:15 take off</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">8:00</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">8:20 landing<br>8:40 out</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">9:00</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">rent car? hotel pick up?</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <p>9:00 &#x5230;&#x6F01;&#x6E2F;</p>

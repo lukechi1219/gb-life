@@ -35,50 +35,50 @@
       <td style="text-align:left">rent car? hotel pick up?</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p>9:00 &#x5230;&#x6F01;&#x6E2F;</p>
-        <p>9:30 &#x958B;&#x8239;</p>
+        <p>9:00 到漁港</p>
+        <p>9:30 開船</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">10:00</td>
       <td style="text-align:left">arrive hotel?</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">起床</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">11:00</td>
       <td style="text-align:left">find place to rest</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">休息</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">12:00</td>
-      <td style="text-align:left">lunch</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">午餐 ?</td>
+      <td style="text-align:left">特選海產店</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">13:00</td>
       <td style="text-align:left">rest</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">rest</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">14:00</td>
-      <td style="text-align:left">go tree?</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">伯朗大道</td>
+      <td style="text-align:left">小野柳</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">15:00</td>
-      <td style="text-align:left">go air</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">飛行傘</td>
+      <td style="text-align:left">富山護漁區</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">16:00</td>
-      <td style="text-align:left">go grass</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">16:00<br>16:30</td>
+      <td style="text-align:left">-<br>滑草</td>
+      <td style="text-align:left">可可娜咖啡</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -89,8 +89,8 @@
     </tr>
     <tr>
       <td style="text-align:left">18:00</td>
-      <td style="text-align:left">go dinner</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">漁采 時令料理</td>
+      <td style="text-align:left">雷門酒場</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@
     <tr>
       <td style="text-align:left">20:00</td>
       <td style="text-align:left">go walk?</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">宵夜?</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>

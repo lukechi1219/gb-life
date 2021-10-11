@@ -14,13 +14,13 @@
   <tbody>
     <tr>
       <td style="text-align:left">6:00</td>
-      <td style="text-align:left">6:15 out</td>
+      <td style="text-align:left">6:10 出門<br>6:40 最遲於起飛前30分鐘<br>至櫃檯報到劃位</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">7:00</td>
-      <td style="text-align:left">7:15 take off</td>
+      <td style="text-align:left">7:15 起飛</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>

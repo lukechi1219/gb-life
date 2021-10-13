@@ -26,13 +26,13 @@
     </tr>
     <tr>
       <td style="text-align:left">8:00</td>
-      <td style="text-align:left">8:20 landing<br>8:40 out</td>
+      <td style="text-align:left">8:20 降落<br>8:40 拿好行李出機場</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">9:00</td>
-      <td style="text-align:left">rent car? hotel pick up?</td>
+      <td style="text-align:left">租車 , 來機場接送<br>9:30 拿車<br><br>9:45 放行李<br>岩灣潭行館<br>台東縣台東市北安路679巷1號</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <p>9:00 到漁港</p>
@@ -41,37 +41,37 @@
     </tr>
     <tr>
       <td style="text-align:left">10:00</td>
-      <td style="text-align:left">arrive hotel?</td>
+      <td style="text-align:left">休息坐一下?<br>吃早餐? 卑南豬血湯?<br>南王蔥油餅, 叮哥茶飲-南王店</td>
       <td style="text-align:left">起床</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">11:00</td>
-      <td style="text-align:left">find place to rest</td>
-      <td style="text-align:left">休息</td>
+      <td style="text-align:left">鹿野梅花鹿公園<br>台東縣鹿野鄉瑞景路一段23巷15號</td>
+      <td style="text-align:left">11:30 特選海產店?</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">12:00</td>
-      <td style="text-align:left">午餐 ?</td>
+      <td style="text-align:left">池上好店<br>台東縣池上鄉中山路193號</td>
       <td style="text-align:left">特選海產店</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">13:00</td>
-      <td style="text-align:left">rest</td>
+      <td style="text-align:left">休息, 走走</td>
       <td style="text-align:left">rest</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">14:00</td>
-      <td style="text-align:left">伯朗大道</td>
+      <td style="text-align:left">伯朗大道<br><br>源順自行車<br>台東縣池上鄉2鄰10號<br>14:30 離開</td>
       <td style="text-align:left">小野柳</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">15:00</td>
-      <td style="text-align:left">飛行傘</td>
+      <td style="text-align:left">15:15 抵達 飛行傘 <br>台東縣鹿野鄉永安村高台路42巷157號<br>https://www.facebook.com/soar001<br>https://soar-flying.rezio.shop/product/DMA8K0<br>預約 15:30 ~ 16:00<br></td>
       <td style="text-align:left">富山護漁區</td>
       <td style="text-align:left"></td>
     </tr>
@@ -83,19 +83,19 @@
     </tr>
     <tr>
       <td style="text-align:left">17:00</td>
-      <td style="text-align:left">go hotel</td>
+      <td style="text-align:left">回飯店休息</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">18:00</td>
-      <td style="text-align:left">漁采 時令料理</td>
+      <td style="text-align:left">休息</td>
       <td style="text-align:left">雷門酒場</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">19:00</td>
-      <td style="text-align:left">dinner</td>
+      <td style="text-align:left">dinner 漁采 時令料理<br>台東縣台東市更生路573巷40號四維路 與 洛陽街口<br>找停車位</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -107,7 +107,7 @@
     </tr>
     <tr>
       <td style="text-align:left">21:00</td>
-      <td style="text-align:left">go hotel</td>
+      <td style="text-align:left">go hotel? 俩吆久景觀貨櫃餐廳?</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>

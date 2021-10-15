@@ -72,13 +72,13 @@
     <tr>
       <td style="text-align:left">15:00</td>
       <td style="text-align:left">15:15 抵達 飛行傘 <br>台東縣鹿野鄉永安村高台路42巷157號<br>https://www.facebook.com/soar001<br>https://soar-flying.rezio.shop/product/DMA8K0<br>預約 15:30 ~ 16:00<br></td>
-      <td style="text-align:left">富山護漁區</td>
+      <td style="text-align:left">富山護漁區, 可可娜咖啡</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">16:00<br>16:30</td>
       <td style="text-align:left">-<br>滑草</td>
-      <td style="text-align:left">可可娜咖啡</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -90,13 +90,13 @@
     <tr>
       <td style="text-align:left">18:00</td>
       <td style="text-align:left">休息</td>
-      <td style="text-align:left">雷門酒場</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">19:00</td>
       <td style="text-align:left">dinner 漁采 時令料理<br>台東縣台東市更生路573巷40號四維路 與 洛陽街口<br>找停車位</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">雷門酒場</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>

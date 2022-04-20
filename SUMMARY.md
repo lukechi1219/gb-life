@@ -18,4 +18,4 @@
 
 ## other
 
-* [Untitled](other/untitled.md)
+* [Gamify](other/untitled.md)

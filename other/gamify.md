@@ -6,6 +6,7 @@
   * [ ] ?
   * [ ] krain
     * [x] finish krain rerult calc -> update balance (acc or b-wallet) + transfer record \[4/21]
+    * [ ] 完善 test result calc
   * [ ] ? sync with dean ?
   * [ ] cloud security test env setup / with db data
     * [x] auto deploy war to cps-uat-cloud-mg01 \[4/22]

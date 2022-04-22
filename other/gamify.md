@@ -17,8 +17,8 @@
 * [ ] Home
   * [x] Uncle ups package \[4/21]
   * [x] Dad see skin doctor \[4/21]
-  * [ ] Dad 身分證
-  * [ ] 律師事務所打電話
+  * [ ] Dad 身分證 \[4/25 ?]
+  * [x] 律師事務所打電話 \[4/21]
   * [ ] ?
 * [ ] Output
   * [ ] SOLID video

@@ -37,5 +37,9 @@
 * [ ] side projects
   * [ ] BMW
   * [ ] Gamify -> daily finished count, line chart, etc.
+    * [ ] toh
+    * [ ] todo mvc
+    * [ ] gamify
+    * [ ] ?
 * [ ] ?
 

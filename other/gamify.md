@@ -19,8 +19,17 @@
   * [ ] cloud security test env setup / with db data
     * [x] auto deploy war to cps-uat-cloud-mg01 \[4/22]
     * [x] script for scp to cloud-ap01, cloud-ap02 \[4/22]
-    * [ ] script to re-start tomcat with new war -> stan 下週一下班
+    * [ ] script to re-start tomcat with new war
+      * [x] mg01
+      * [ ] ap01
+      * [ ] ap02
+    * [ ] 調整 db 設定跟 tomcat config , 讓 server 能夠啟動
+      * [x] 新增 isUatCloud
+      * [x] mg01
+      * [ ] ap01
+      * [ ] ap02
     * [ ] 清理 db 資料 , 改資料 db node, etc.
+      * [ ] 砍 txn 資料
     * [ ] ?
   * [ ] SMS
     * [ ] db

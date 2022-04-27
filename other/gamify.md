@@ -32,7 +32,10 @@
   * [ ] SMS
     * [ ] db
     * [ ] notify ?
-    * [ ] 確認 email 還會用 marketing ?
+    * [x] 確認 email 還會用 marketing ?
+      * [ ] 小光 Daniel 討論 \[4/27]
+      * [ ] 找 kevin , A8 調回一組 \[4/27]
+      * [ ] 新版 不分 marketing/transaction , 但需要把一組當預設 發 transaction
     * [ ] BO ?
     * [ ] OP ?
 * [ ] Home
@@ -56,5 +59,8 @@
       * [x] 1 hr \[4/26]
     * [ ] todo mvc
     * [ ] gamify
+* [ ] Personal
+  * [ ] install colemak ansi \[4/27]
+  * [ ] 拿貨鍵軸鍵帽
 * [ ] tbd
 

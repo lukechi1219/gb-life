@@ -20,12 +20,12 @@
     * [x] script for scp to cloud-ap01, cloud-ap02 \[4/22]
     * [ ] script to re-start tomcat with new war
       * [x] mg01
-      * [ ] ap01
+      * [x] ap01
       * [ ] ap02
     * [ ] 調整 db 設定跟 tomcat config , 讓 server 能夠啟動
       * [x] 新增 isUatCloud
       * [x] mg01
-      * [ ] ap01
+      * [x] ap01
       * [ ] ap02
     * [ ] 清理 db 資料 , 改資料 db node, etc.
       * [ ] 砍 txn 資料
@@ -45,6 +45,7 @@
   * [x] 律師事務所打電話 \[4/21]
   * [x] Dad 印章 \[4/25]
   * [x] Dad 身分證 \[4/27]
+  * [ ] 律師事務所 \[4/28]
 * [ ] Output
   * [ ] SOLID video
   * [ ] Unit Test video
@@ -60,7 +61,7 @@
     * [ ] todo mvc
     * [ ] gamify
 * [ ] Personal
-  * [ ] install colemak ansi \[4/27]
+  * [x] install colemak ansi \[4/27]
   * [ ] 拿貨鍵軸鍵帽
 * [ ] tbd
 

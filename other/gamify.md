@@ -29,6 +29,7 @@
       * [ ] ap02
     * [ ] 清理 db 資料 , 改資料 db node, etc.
       * [x] delete account\* data \[4/28]
+      * [x] delete data 到 operator \[4/28]
       * [ ] delete 後續資料 where site != 12
       * [ ] 砍 txn 資料
       * [ ] delete data where site = 12

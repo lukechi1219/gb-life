@@ -28,6 +28,7 @@
       * [x] ap01
       * [ ] ap02
     * [ ] 清理 db 資料 , 改資料 db node, etc.
+      * [x] delete account\* data \[4/28]
       * [ ] 砍 txn 資料
   * [ ] SMS
     * [ ] db
@@ -45,6 +46,7 @@
   * [x] 律師事務所打電話 \[4/21]
   * [x] Dad 印章 \[4/25]
   * [x] Dad 身分證 \[4/27]
+  * [x] Dad 皮膚科回診 \[4/28]
   * [ ] 律師事務所 \[4/28]
 * [ ] Output
   * [ ] SOLID video

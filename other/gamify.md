@@ -29,7 +29,9 @@
       * [ ] ap02
     * [ ] 清理 db 資料 , 改資料 db node, etc.
       * [x] delete account\* data \[4/28]
+      * [ ] delete 後續資料 where site != 12
       * [ ] 砍 txn 資料
+      * [ ] delete data where site = 12
   * [ ] SMS
     * [ ] db
     * [ ] notify ?
@@ -47,7 +49,9 @@
   * [x] Dad 印章 \[4/25]
   * [x] Dad 身分證 \[4/27]
   * [x] Dad 皮膚科回診 \[4/28]
-  * [ ] 律師事務所 \[4/28]
+  * [x] 律師事務所 \[4/28]
+  * [ ] 轉帳給律師 10 + 6 萬 \[4/28]
+  * [ ] 通知姑丈 \[4/28]
 * [ ] Output
   * [ ] SOLID video
   * [ ] Unit Test video

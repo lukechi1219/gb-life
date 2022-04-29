@@ -30,14 +30,14 @@
     * [ ] 清理 db 資料 , 改資料 db node, etc.
       * [x] delete account\* data \[4/28]
       * [x] delete data 到 operator \[4/28]
-      * [ ] delete 後續資料 where site != 12
+      * [x] delete 後續資料 where site != 12
       * [ ] 砍 txn 資料
       * [ ] delete data where site = 12
   * [ ] SMS
     * [ ] db
     * [ ] notify ?
     * [x] 確認 email 還會用 marketing ?
-      * [ ] 小光 Daniel 討論 \[4/27]
+      * [x] 小光 Daniel 討論 \[4/27]
       * [ ] 找 kevin , A8 調回一組 \[4/27]
       * [ ] 新版 不分 marketing/transaction , 但需要把一組當預設 發 transaction
     * [ ] BO ?
@@ -52,7 +52,7 @@
   * [x] Dad 皮膚科回診 \[4/28]
   * [x] 律師事務所 \[4/28]
   * [ ] 轉帳給律師 10 + 6 萬 \[4/28]
-  * [ ] 通知姑丈 \[4/28]
+  * [x] 通知姑丈 \[4/28]
 * [ ] Output
   * [ ] SOLID video
   * [ ] Unit Test video
@@ -69,6 +69,6 @@
     * [ ] gamify
 * [ ] Personal
   * [x] install colemak ansi \[4/27]
-  * [ ] 拿貨鍵軸鍵帽
+  * [x] 拿貨鍵軸鍵帽
 * [ ] tbd
 

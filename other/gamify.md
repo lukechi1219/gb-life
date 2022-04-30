@@ -16,8 +16,6 @@
     * [ ] krain ?
     * [ ] cloud 滲透測試
   * [ ] cloud security test env setup / with db data
-    * [x] auto deploy war to cps-uat-cloud-mg01 \[4/22]
-    * [x] script for scp to cloud-ap01, cloud-ap02 \[4/22]
     * [ ] script to re-start tomcat with new war
       * [x] mg01
       * [x] ap01
@@ -43,16 +41,7 @@
     * [ ] BO ?
     * [ ] OP ?
 * [ ] Home
-  * [x] Uncle ups package \[4/21]
-  * [x] 回信 Uncle
-  * [x] Dad see skin doctor \[4/21]
-  * [x] 律師事務所打電話 \[4/21]
-  * [x] Dad 印章 \[4/25]
-  * [x] Dad 身分證 \[4/27]
-  * [x] Dad 皮膚科回診 \[4/28]
-  * [x] 律師事務所 \[4/28]
   * [ ] 轉帳給律師 10 + 6 萬 \[4/28]
-  * [x] 通知姑丈 \[4/28]
 * [ ] Output
   * [ ] SOLID video
   * [ ] Unit Test video
@@ -68,7 +57,25 @@
     * [ ] todo mvc
     * [ ] gamify
 * [ ] Personal
-  * [x] install colemak ansi \[4/27]
-  * [x] 拿貨鍵軸鍵帽
+  * [ ] 其他
 * [ ] tbd
 
+# done
+
+* fun
+  * [x] install colemak ansi \[4/27]
+  * [x] 拿貨鍵軸鍵帽 \[4/27]
+* home
+  * [x] Uncle ups package \[4/21]
+  * [x] 回信 Uncle
+  * [x] Dad see skin doctor \[4/21]
+  * [x] 律師事務所打電話 \[4/21]
+  * [x] Dad 印章 \[4/25]
+  * [x] Dad 身分證 \[4/27]
+  * [x] Dad 皮膚科回診 \[4/28]
+  * [x] 律師事務所 \[4/28]
+  * [x] 通知姑丈 \[4/28]
+* work
+  * [x] auto deploy war to cps-uat-cloud-mg01 \[4/22]
+  * [x] script for scp to cloud-ap01, cloud-ap02 \[4/22]
+* tbd
